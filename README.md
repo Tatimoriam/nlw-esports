@@ -1,5 +1,5 @@
 ## Projeto NLW ESPORTS
-Projeto feito na semana do NextLevelWeek da [RocketSeat](https://www.rocketseat.com.br/)!
+Projeto feito na semana do NextLevelWeek da [Rocketseat](https://www.rocketseat.com.br/)!
 
 ## O projeto
 É uma plataforma para encontra seu duo nos games que você joga.
