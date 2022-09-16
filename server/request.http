@@ -1,0 +1,19 @@
+###
+GET http://localhost:3333/games HTTP/1.1
+
+###
+GET http://localhost:3333/games/0dbb8b14-682b-4cb4-bae0-f2c13839169d/ads
+
+###
+POST http://localhost:3333/games/0dbb8b14-682b-4cb4-bae0-f2c13839169d/ads
+Content-Type: application/json
+
+{
+    "name": "Diegoww",
+    "yearsPlaying": 2,
+    "discord": "Diego Fernandes#2323",
+    "weekDays": [0, 5, 6],
+    "hourStart": "12:00",
+    "hourEnd": "15:00",
+    "useVoiceChannel": true
+}
